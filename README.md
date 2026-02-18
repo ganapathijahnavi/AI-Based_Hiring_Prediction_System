@@ -104,12 +104,12 @@ Probability: 0.997
 ---
 
 ## Project Structure
-AI-Hiring-Prediction-System/
-│
-├── data/
-├── notebook
-├── requirements.txt
-└── README.md
+    AI-Hiring-Prediction-System/
+    │
+    ├── data/
+    ├── notebook
+    ├── requirements.txt
+    └── README.md
 
 ---
 
