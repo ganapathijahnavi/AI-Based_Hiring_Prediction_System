@@ -155,6 +155,7 @@ This system demonstrates how AI can support HR automation by:
 
 ## Author
 
-Jahnavi Durga Ganapathi 
+Jahnavi Durga Ganapathi 🙋‍♀️
+
 AI / Machine Learning Enthusiast
 
